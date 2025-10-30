@@ -1,2 +1,1 @@
-# test
-for the testing
+This is just a testing for the class.
